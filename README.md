@@ -89,6 +89,10 @@
 ```php
 
 ```
+### FollowButton.vue
+```vue
+
+```
 
 ### .env
 
