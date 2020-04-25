@@ -9,13 +9,14 @@
 - Install Laravel <br>
 - php artisan serve <br>
 - composer require laravel/ui <br>
-- php artisan vue --auth <br>
--  <br>
--  <br>
--  <br>
--  <br>
--  <br>
--  <br>
+- php artisan ui vue --auth <br>
+- npm run <br>
+- npm run dev <br>
+- php artisan storage:link <br>
+- composer require intervention/image <br>
+- php artisan make:migration creates_profile_user_pivot_table --create profile_user <br>
+- composer require laravel/telescope <br>
+- php artisan telescope:install <br>
 
 ### User.php
 ```php
