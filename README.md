@@ -1,7 +1,7 @@
 # Laravel Photogram
 
 - As like instagram this app can upload photo with caption. User can update profile with profile picture. User also can add post. One user can follow many users profile. When user login he see all the latest post in his profile. <br>
-- Laravel Framework | VueJS | Bootstrap. <br>
+- Laravel 7 | VueJS | Bootstrap. <br>
 
 
 ### Commands
