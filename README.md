@@ -38,6 +38,7 @@ Route::get('/profile/{user}/edit', 'ProfilesController@edit')->name('profile.edi
 Route::patch('/profile/{user}', 'ProfilesController@update')->name('profile.update');
 
 ```
+![1  login](https://user-images.githubusercontent.com/33843231/80362664-d3581280-88a4-11ea-89ef-90fa160bdce7.png)
 
 ### User.php
 ```php
@@ -176,6 +177,8 @@ Route::patch('/profile/{user}', 'ProfilesController@update')->name('profile.upda
 ```
 ## Profile Views
 
+![3  Profileindex](https://user-images.githubusercontent.com/33843231/80362612-bf141580-88a4-11ea-8de4-6a0911902073.png)
+
 ### index.blade.php
 ```php
 @extends('layouts.app')
@@ -229,6 +232,7 @@ Route::patch('/profile/{user}', 'ProfilesController@update')->name('profile.upda
 
 ```
 ### edit.blade.php
+![4  ProfileEdit](https://user-images.githubusercontent.com/33843231/80362605-bc192500-88a4-11ea-808c-e80b69a68d8e.png)
 ```php
 @extends('layouts.app')
 
@@ -381,6 +385,8 @@ public function __construct()
 ```
 ## Post Views
 
+![2  PostIndex](https://user-images.githubusercontent.com/33843231/80362635-c6d3ba00-88a4-11ea-88fd-5de742747d0d.png)
+
 ### index.blade.php
 ```php
 @extends('layouts.app')
@@ -420,6 +426,9 @@ public function __construct()
 @endsection
 ```
 ### create.blade.php
+
+![5  PostCreate](https://user-images.githubusercontent.com/33843231/80362680-de12a780-88a4-11ea-8b75-92c25d8646e2.png)
+
 ```php
 @extends('layouts.app')
 
@@ -469,6 +478,9 @@ public function __construct()
 @endsection
 ```
 ### show.blade.php
+
+![6  PostShow](https://user-images.githubusercontent.com/33843231/80362668-d4893f80-88a4-11ea-940b-70dc32680b43.png)
+
 ```php
     <div class="container">
         <div class="row">
