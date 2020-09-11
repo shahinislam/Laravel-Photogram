@@ -1,6 +1,6 @@
 # Laravel Photogram
 
-- As like instagram this app can upload photo with caption. User can update profile with profile picture. User also can add post. One user can follow many users profile. When user login he see all the latest post in his profile. <br>
+- This project is clone as like instagram. User have to login and register. It will be able to follow/unfollow. Also able to edit profile and profile image. Add new post with choose image option. News feed based on following people. <br>
 - Laravel 7 | VueJS | Bootstrap. <br>
 
 
